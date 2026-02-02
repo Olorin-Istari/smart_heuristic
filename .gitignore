@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Results (deixe só example/ versionado)
+**/results/*
+!**/results/example/**
+!**/results/example/**/*
+*.log
+
+# PDFs/exports temporários
+tmp/
+build/
+dist/
