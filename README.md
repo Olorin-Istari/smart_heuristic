@@ -66,7 +66,7 @@ Se você tem um processo com **busca grande** (calibração, tuning, simulação
 - medição antes/depois com gráficos e relatório curto
 - recomendação de parâmetros (workers, granularidade, stop)
 
-Para contato: [(adicione seu e-mail/LinkedIn aqui)](https://www.linkedin.com/in/yuri-siqueira-furtwaengler-8a1667134?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCQbqUtH6Rc6nYzwtf24DDA%3D%3D)
+Para contato: [(Yuri Siqueira Furtwaengler)](https://www.linkedin.com/in/yuri-siqueira-furtwaengler-8a1667134?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCQbqUtH6Rc6nYzwtf24DDA%3D%3D)
 
 ---
 
